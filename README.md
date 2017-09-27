@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/lclUU5U.png">
 </p>
-* [TwitchTv](https://www.twitch.tv/)
+[TwitchTv](https://www.twitch.tv/)
 
 ## Sobre
 
